@@ -43,9 +43,9 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** Hemalatha.A
+**Name:** JANANI S
 
-### Register No:212224240056
+### Register No:212224230103
 ---
 
 ## Output
@@ -70,7 +70,8 @@ plt.title('Captured Frame')
 plt.axis('off')
 plt.show()
 ```
-<img width="648" height="522" alt="image" src="https://github.com/user-attachments/assets/cf41f6cf-127f-4f65-ba30-1206b79efc55" />
+<img width="802" height="633" alt="Screenshot 2026-11-03 083054" src="https://github.com/user-attachments/assets/9477d844-adfb-4af4-826f-5be97fecab66" />
+
 
 ### ii) Display the video
 ```
@@ -89,7 +90,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="682" height="483" alt="image" src="https://github.com/user-attachments/assets/f53ca927-3910-4f69-be3f-0056dbfa4800" />
+<img width="780" height="578" alt="Screenshot 2026-11-03 083345" src="https://github.com/user-attachments/assets/576c6ffe-8834-46c8-909a-8e0d3b0458fc" />
+
 
 ### iii) Display the video by resizing the window
 ```
@@ -110,7 +112,8 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="323" height="485" alt="image" src="https://github.com/user-attachments/assets/0fd2b62b-c352-4693-95f8-599c8087779b" />
+<img width="417" height="592" alt="Screenshot 2026-11-03 083005" src="https://github.com/user-attachments/assets/589b4b9e-5902-43bb-ac76-2fff51eb1f16" />
+
 
 ### iv) Rotate and display the video
 ```
@@ -130,7 +133,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="382" height="486" alt="image" src="https://github.com/user-attachments/assets/36875e8a-c78d-4f27-b95b-c6c795b8fc11" />
+<img width="452" height="592" alt="Screenshot 2026-11-03 083017" src="https://github.com/user-attachments/assets/a4f585ff-7618-44de-b9b0-5ec8d6e5946e" />
+
 
 ## Result
 
